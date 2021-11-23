@@ -37,9 +37,9 @@
 			<section id="banner" data-video="images/banner">
 				<div class="inner">
 					<h1>Agencia de viajes</h1>
-					<p>Acompañanos..</p>
+					<p>Acompáñanos..</p>
 					<p>Una experiencia que nunca podrás olvidar<br />
-					Desarrollado por <a href="https://www.google.es/">METROPOLITA</a> y diseñado por <a href="www.google.es">Robotek</a>.</p>
+					Desarrollado por <a href="https://www.metropolita.app">METROPOLITA</a></p>
 					<a href="#one" class="button special scrolly">Sí, quiero.</a>
 				</div>
 			</section>
@@ -54,13 +54,12 @@
 							</div>
 							<div class="content">
 								<header class="align-center">
-									<h2>Lorem ipsum dolor</h2>
-									<p>maecenas feugiat ex purus, quis volutpat lacus placerat</p>
+									<h2>Mas allá de los limites</h2>
+									<p>Cada rincón te sorprenderá</p>
 								</header>
 								<hr />
-								<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada. Praesent in sem ex. Morbi mattis sapien pretium tellus venenatis, at egestas urna ornare.</p>
-								<p>Vivamus fermentum nibh vel pharetra blandit. Cras a purus urna. Sed et libero ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse id hendrerit felis. Nulla viverra tempor dui at congue. Pellentesque quis nulla ornare, congue nisi id, finibus nulla. Aliquam sit amet hendrerit purus. Donec libero massa, posuere fermentum eros sit amet, maximus fringilla augue. Maecenas at rhoncus lorem. Vivamus ultricies consequat est, efficitur convallis libero. Vivamus rutrum semper mauris, vitae consequat eros tempor ac. Pellentesque et ornare sapien</p>
-							</div>
+								<p> Conoce cada lugar importante de tu lugar elegido, nuestros profesionales están a tu servicio y prepararán cada detalle para que no olvides estos momentos y te lleves un recuerdo para toda la vida.</p>
+								</div>
 						</div>
 					</div>
 				</div>
@@ -72,27 +71,27 @@
 					<div id="flexgrid">
 						<div>
 							<header>
-								<h3>Tempus Feugiat</h3>
+								<h3>Relax</h3>
 							</header>
-							<p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu</p>
+							<p>Si necesitas desconectar, tenemos unos destinos en los que descansar y recargar energías.</p>
 							<ul class="actions">
 								<li><a href="#" class="button alt">Learn More</a></li>
 							</ul>
 						</div>
 						<div>
 							<header>
-								<h3>Aliquam Nulla</h3>
+								<h3>Aventura</h3>
 							</header>
-							<p>Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec dapibus tortor nibh sed </p>
+							<p>Acción y aventura para sentir la adrenalina en cada instante, solo para los mas atrevidos ¿Aceptas el reto?</p>
 							<ul class="actions">
 								<li><a href="#" class="button alt">Learn More</a></li>
 							</ul>
 						</div>
 						<div>
 							<header>
-								<h3>Sed Magna</h3>
+								<h3>Pasión</h3>
 							</header>
-							<p>Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi ullamcorper vehicula.</p>
+							<p>Tanto para parjeas como para viajar solo, si tu objetivo es un viaje donde sentir mas allá, aquí tenemos lo que necesitas.</p>
 							<ul class="actions">
 								<li><a href="#" class="button alt">Learn More</a></li>
 							</ul>
@@ -175,7 +174,7 @@
 										<label for="dept">Department</label>
 										<div class="select-wrapper">
 											<select name="dept" id="dept">
-												<option value="">- Category -</option>
+												<option value="">- Categoría -</option>
 												<option value="1">Manufacturing</option>
 												<option value="1">Shipping</option>
 												<option value="1">Administration</option>
@@ -195,7 +194,7 @@
 						</div>
 					</section>
 					<div class="copyright">
-						&copy; Diseñado por: <a href="https://templated.co/">METROPOLITA</a>. imágenes <a href="https://unsplash.com/">Unsplash</a>. Video <a href="http://coverr.co/">Coverr</a>.
+						&copy; Diseñado por: <a href="https://robotek.app">METROPOLITA</a>.
 					</div>
 				</div>
 			</footer>
