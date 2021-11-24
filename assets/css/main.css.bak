@@ -4227,3 +4227,10 @@
 			}
 
 		}
+		#three, #four, #footer section {
+			display:none
+			}
+		#banner b{
+			color:black !important;
+			font-weight: 900 !important;
+			}
